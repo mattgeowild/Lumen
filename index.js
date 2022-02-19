@@ -9,4 +9,4 @@ client.on("message", async (message) => {
 });
 
 // To login as a bot:
-client.loginBot("N71fpwnLm3tUNRtqdUcjnLX-G3S7E0xlUmfLs6ETZqCUqPjHRkYxEQ7lWJC-eo-S");
+client.loginBot("TOKEN_HERE");
